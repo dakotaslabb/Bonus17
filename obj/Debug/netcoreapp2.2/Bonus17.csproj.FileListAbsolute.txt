@@ -1,0 +1,11 @@
+C:\Users\dakot\source\repos\Bonus17\obj\Debug\netcoreapp2.2\Bonus17.csprojAssemblyReference.cache
+C:\Users\dakot\source\repos\Bonus17\obj\Debug\netcoreapp2.2\Bonus17.csproj.CoreCompileInputs.cache
+C:\Users\dakot\source\repos\Bonus17\obj\Debug\netcoreapp2.2\Bonus17.AssemblyInfoInputs.cache
+C:\Users\dakot\source\repos\Bonus17\obj\Debug\netcoreapp2.2\Bonus17.AssemblyInfo.cs
+C:\Users\dakot\source\repos\Bonus17\bin\Debug\netcoreapp2.2\Bonus17.deps.json
+C:\Users\dakot\source\repos\Bonus17\bin\Debug\netcoreapp2.2\Bonus17.runtimeconfig.json
+C:\Users\dakot\source\repos\Bonus17\bin\Debug\netcoreapp2.2\Bonus17.runtimeconfig.dev.json
+C:\Users\dakot\source\repos\Bonus17\bin\Debug\netcoreapp2.2\Bonus17.dll
+C:\Users\dakot\source\repos\Bonus17\bin\Debug\netcoreapp2.2\Bonus17.pdb
+C:\Users\dakot\source\repos\Bonus17\obj\Debug\netcoreapp2.2\Bonus17.dll
+C:\Users\dakot\source\repos\Bonus17\obj\Debug\netcoreapp2.2\Bonus17.pdb
